@@ -1,0 +1,27 @@
+ 
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container{
+    width: 640px ;
+    height: 640px;
+    border: 1px solid black;
+    
+}
+.rowsquare{
+    height: 40px;
+   
+    
+}
+.square{
+    
+    
+    display: inline-block;
+}
+button{
+    border: 1px solid black;
+    
+}
